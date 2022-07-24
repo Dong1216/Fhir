@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1051924037167",
+    "firebase_url": "https://fhirproject-3584e.firebaseio.com",
+    "project_id": "fhirproject-3584e",
+    "storage_bucket": "fhirproject-3584e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051924037167:android:8f7b817e5b132455ecd0da",
+        "android_client_info": {
+          "package_name": "com.example.fhirsimpleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051924037167-pcnleb75s52t85ls40sjrncb2q7evbar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcshgP0B51VC1KELP5CCg0aUHYGmDeQiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051924037167-pcnleb75s52t85ls40sjrncb2q7evbar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

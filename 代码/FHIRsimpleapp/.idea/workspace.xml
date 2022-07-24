@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="" />
+        <option name="name" value="stock" />
+        <option name="packageNamePattern" value="" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="patient" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c75b0f3-b439-4474-8bf6-9215aae859e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/no_normalized_model.tflite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/tf_lite_model.tflite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationFHIR/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tflitetestapp/app/src/main/assets/tf_lite_model.tflite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Adapter/MessageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Adapter/MessageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Adapter/PractitionerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Adapter/PractitionerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Adapter/UserAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Adapter/UserAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/ChatSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/ChatSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientChatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientChatting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientChatting2.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientChatting2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientPredict.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientPredict.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerChatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerChatting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerChatting2.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerChatting2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_button_white.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_button_white.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/circle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/circle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/grad.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/grad.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_send_black_24dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_send_black_24dp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/my_message.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/my_message.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/their_message.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/their_message.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_chat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_chat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_user.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_user.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/map.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/map.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/my_message.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/my_message.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/patient_chatting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/patient_chatting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/patient_chatting_header.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/patient_chatting_header.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/patient_chatting_items.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/patient_chatting_items.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/patient_information.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/patient_information.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/patient_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/patient_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/patient_prediction.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/patient_prediction.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/practitioner_chatting_items.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/practitioner_chatting_items.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/practitioner_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/practitioner_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/practitioner_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/practitioner_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/their_message.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/their_message.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/user_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/user_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_27" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FHIR simple app" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FHIR simple app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="280" lean-forward="true" selection-start-line="280" selection-end-line="280" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#onCreate#0;class#MainActivity#0" />
+                <element signature="class#GetPatientDetails#0;class#MainActivity#0" />
+                <element signature="class#GetAllPractitioners#0;class#MainActivity#0" />
+                <element signature="class#GetPractitionerDetails#0;class#MainActivity#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientPredict.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/ChatSample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Adapter/UserAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-487">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>data</find>
+      <find>duration</find>
+      <find>intent</find>
+      <find>diary</find>
+      <find>info</find>
+      <find>phone</find>
+      <find>addre</find>
+      <find>hello</find>
+      <find>guide</find>
+      <find>header</find>
+      <find>consulting</find>
+      <find>id</find>
+      <find>patient</find>
+      <find>name</find>
+      <find>send</find>
+      <find>startac</find>
+      <find>mlocationgranted</find>
+      <find>fra</find>
+      <find>senderid</find>
+      <find>intitMap</find>
+      <find>map</find>
+      <find>current</find>
+      <find>default</find>
+      <find>message</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/patient_chatting.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerProfile.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/patient_chatting_header.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientChattingAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_send_black_24dp.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/my_message.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/circle.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/their_message.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/chatMain.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/chat_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/user_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatienChatting2.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Fragments/UsersFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Adapter/PatientChattingAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientConsulting.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/ChatSample.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/messageActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Adapter/MessageAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerMain.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientSample.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Main3Activity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/practitioner_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientChatting.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerChatting.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/patient_information.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientInformation.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/their_message.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerChatting2.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/patient_chatting_items.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/practitioner_chatting_items.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Adapter/PractitionerAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_user.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/my_message.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/bg_button_white.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientMain.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientPredict.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/patient_prediction.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/patient_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_chat.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/map.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientChatting2.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientMap.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Main2Activity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Adapter/UserAdapter.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="947" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FHIR simple app" type="58d84e3e:PackageViewProjectNode" />
+              <item name="app" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FHIR simple app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FHIRsimpleapp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="FHIR simple app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FHIRsimpleapp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="FHIR simple app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FHIRsimpleapp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FHIR simple app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FHIRsimpleapp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FHIR simple app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FHIRsimpleapp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FHIR simple app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FHIRsimpleapp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fhirsimpleapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/assets" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/raw" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.fhirsimpleapp" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.example.fhirsimpleapp" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.MainActivity">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainActivity" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.example.fhirsimpleapp.MainActivity" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android App.MainActivity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c75b0f3-b439-4474-8bf6-9215aae859e9" name="Default Changelist" comment="" />
+      <created>1575856243106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575856243106</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1152" height="661" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.5012563" side_tool="true" weight="0.15026297" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Favorites" order="2" sideWeight="0.50073206" side_tool="true" weight="0.26037344" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Resources Explorer" order="6" weight="0.32617342" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.4987437" visible="true" weight="0.16126126" />
+      <window_info id="Captures" order="8" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49961862" weight="0.32914573" />
+      <window_info anchor="bottom" id="TODO" order="1" weight="0.32914573" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.4986613" weight="0.32914573" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.45381525" side_tool="true" weight="0.15452261" />
+      <window_info active="true" anchor="bottom" id="Build" order="4" sideWeight="0.5461847" visible="true" weight="0.18888889" />
+      <window_info anchor="bottom" id="Android Profiler" order="5" show_stripe_button="false" sideWeight="0.4986613" weight="0.32914573" />
+      <window_info anchor="bottom" id="Logcat" order="6" sideWeight="0.8567604" weight="0.3037037" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.67536813" weight="0.44444445" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.7570281" weight="0.41919193" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.20075758" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.3299866" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+      <window_info anchor="right" id="Preview" order="5" weight="0.6101852" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" sideWeight="0.5012563" side_tool="true" weight="0.15026297" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Favorites" order="2" sideWeight="0.50073206" side_tool="true" weight="0.26037344" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Resources Explorer" order="6" weight="0.3271605" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.4987437" visible="true" weight="0.25400212" />
+      <window_info id="Captures" order="8" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32914573" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.24652456" side_tool="true" weight="0.39447236" />
+      <window_info anchor="bottom" id="Build" order="4" sideWeight="0.7534754" weight="0.28894472" />
+      <window_info anchor="bottom" id="Android Profiler" order="5" />
+      <window_info anchor="bottom" id="Logcat" order="6" weight="0.2638191" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.18467337" />
+      <window_info active="true" anchor="bottom" id="Debug" order="8" sideWeight="0.499183" visible="true" weight="0.32286432" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.3299866" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+      <window_info anchor="right" id="Preview" order="5" weight="0.61044174" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Library/Android/sdk/sources/android-29/android/os/AsyncTask.java</url>
+          <line>231</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Adapter/PractitionerAdapter.java</url>
+          <line>25</line>
+          <properties class="com.example.fhirsimpleapp.Adapter.PractitionerAdapter" method="&lt;init&gt;" />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/android/os/Looper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="194" selection-start-line="194" selection-end-line="194" />
+          <folding>
+            <element signature="e#4872#4873#0" expanded="true" />
+            <element signature="e#4908#4909#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="24770" selection-start-line="24770" selection-end-line="24770" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/10496f710d269c4bbf750af6c3496e37/play-services-maps-17.0.0/jars/classes.jar!/com/google/android/gms/maps/zzak.class" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/messageActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Main2Activity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Main3Activity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/chat_main.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/map.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/their_message.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/practitioner_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/user_item.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/practitioner_chatting_items.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Adapter/PractitionerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="61" column="37" lean-forward="true" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/their_message.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/my_message.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/prediction.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/consulting.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientChatting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="843">
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientChatting2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="77" selection-start-line="77" selection-end-line="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1257">
+          <caret line="119" column="43" selection-start-line="119" selection-start-column="43" selection-end-line="119" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerChatting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerChatting2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerProfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PractitionerSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Adapter/MessageAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/practitioner_profile.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_user.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/patient_chatting_header.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="52" lean-forward="true" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/patient_chatting_items.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1456#1730#0" expanded="true" />
+            <element signature="e#1729#1730#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/PatientPredict.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/ChatSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/patient_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/patient_information.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="61" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/patient_chatting.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/patient_prediction.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="280" lean-forward="true" selection-start-line="280" selection-end-line="280" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#onCreate#0;class#MainActivity#0" />
+            <element signature="class#GetPatientDetails#0;class#MainActivity#0" />
+            <element signature="class#GetAllPractitioners#0;class#MainActivity#0" />
+            <element signature="class#GetPractitionerDetails#0;class#MainActivity#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_chat.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/my_message.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/fhirsimpleapp/Adapter/UserAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-487">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

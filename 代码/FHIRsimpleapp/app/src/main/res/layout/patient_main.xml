@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/Appointments_btn"
+        android:layout_width="231dp"
+        android:layout_height="88dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginLeft="36dp"
+        android:layout_marginTop="32dp"
+        android:text="Appoinments"
+        app:layout_constraintStart_toEndOf="@+id/imageView3"
+        app:layout_constraintTop_toBottomOf="@+id/consulting_btn" />
+
+    <Button
+        android:id="@+id/prediction_btn"
+        android:layout_width="231dp"
+        android:layout_height="88dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginLeft="44dp"
+        android:layout_marginTop="28dp"
+        android:text="Prediction"
+        app:layout_constraintStart_toEndOf="@+id/imageView5"
+        app:layout_constraintTop_toBottomOf="@+id/Appointments_btn" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="111dp"
+        android:layout_height="97dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="28dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4"
+        app:srcCompat="@drawable/consulting" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="110dp"
+        android:layout_height="91dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2"
+        app:srcCompat="@drawable/appointment" />
+
+    <Button
+        android:id="@+id/personalInformation_btn"
+        android:layout_width="231dp"
+        android:layout_height="88dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="16dp"
+        android:text="Personal Information"
+        app:layout_constraintStart_toEndOf="@+id/imageView4"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/consulting_btn"
+        android:layout_width="231dp"
+        android:layout_height="88dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="24dp"
+        android:text="Consulting"
+        app:layout_constraintStart_toEndOf="@+id/imageView2"
+        app:layout_constraintTop_toBottomOf="@+id/personalInformation_btn" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="105dp"
+        android:layout_height="84dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/person" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="96dp"
+        android:layout_height="82dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3"
+        app:srcCompat="@drawable/prediction2" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
